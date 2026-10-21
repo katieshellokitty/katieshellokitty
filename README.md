@@ -2,8 +2,7 @@
 
  cyber forensics + security student
 
- currently working on cybersecurity labs & projects
  
- python • linux • vmware • magnet axiom • autopsy
+ python • linux • vmware • magnet axiom • autopsy • javascript
  
- reach me: [speaks7@marshall.edu]
+
