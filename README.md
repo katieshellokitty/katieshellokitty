@@ -1,11 +1,7 @@
-<img src="5ZQPBlTwwYt5-AdyhK7SY2YKRHkBZELA9knsY743DmX61KPHZSaZhmPXNBpTeDC8rFN-DYwaR4eUvPAO9H6EGNcMbmZ64H7vnRU9NC2YTQ-557oEc8j-hMj-NUw27hpEK-DlGSkrYGyrow50-LE5GA9Lo9jTyUxR0HktUipkD9NjUY0w8KfvB9fBUyyPAfrc.jpg" width="100%">
-
 # ୨୧₊˚ hi, i'm katie! ˚₊୨୧
 
 ### 🎀 cyber forensics & security student 🎀  
 ### ☁️ digital investigations • cybersecurity • coding ☁️
-
-<img src="5ZQPBlTwwYt5-AdyhK7SY2YKRHkBZELA9knsY743DmX61KPHZSaZhmPXNBpTeDC8rFN-DYwaR4eUvPAO9H6EGNcMbmZ64H7vnRU9NC2YTQ-557oEc8j-hMj-NUw27hpEK-DlGSkrYGyrow50-LE5GA9Lo9jTyUxR0HktUipkD9NjUY0w8KfvB9fBUyyPAfrc.jpg" width="100%">
 
 ˚ʚ♡ɞ˚  
 **pink + tech + digital forensics + cute projects**  
