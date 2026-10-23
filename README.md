@@ -1,10 +1,7 @@
 <div align="center">
-  <img src="banner.png" alt="Katie's Pink GitHub Banner" width="100%">
+  <img src="<img src="5ZQPBlTwwYt5-AdyhK7SY2YKRHkBZELA9knsY743DmX61KPHZSaZhmPXNBpTeDC8rFN-DYwaR4eUvPAO9H6EGNcMbmZ64H7vnRU9NC2YTQ-557oEc8j-hMj-NUw27hpEK-DlGSkrYGyrow50-LE5GA9Lo9jTyUxR0HktUipkD9NjUY0w8KfvB9fBUyyPAfrc.jpg" width="100%">" alt="Katie's Pink GitHub Banner" width="100%">
 </div>
 
-<div align="center">
-
-<img src="LINK-TO-YOUR-BANNER" alt="Katie GitHub Banner" width="100%" />
 
 # ୨୧₊˚ hi, i'm katie! ˚₊୨୧
 
