@@ -1,14 +1,11 @@
-<div align="center">
-  <img src="<img src="5ZQPBlTwwYt5-AdyhK7SY2YKRHkBZELA9knsY743DmX61KPHZSaZhmPXNBpTeDC8rFN-DYwaR4eUvPAO9H6EGNcMbmZ64H7vnRU9NC2YTQ-557oEc8j-hMj-NUw27hpEK-DlGSkrYGyrow50-LE5GA9Lo9jTyUxR0HktUipkD9NjUY0w8KfvB9fBUyyPAfrc.jpg" width="100%">" alt="Katie's Pink GitHub Banner" width="100%">
-</div>
-
+<img src="5ZQPBlTwwYt5-AdyhK7SY2YKRHkBZELA9knsY743DmX61KPHZSaZhmPXNBpTeDC8rFN-DYwaR4eUvPAO9H6EGNcMbmZ64H7vnRU9NC2YTQ-557oEc8j-hMj-NUw27hpEK-DlGSkrYGyrow50-LE5GA9Lo9jTyUxR0HktUipkD9NjUY0w8KfvB9fBUyyPAfrc.jpg" width="100%">
 
 # ୨୧₊˚ hi, i'm katie! ˚₊୨୧
 
 ### 🎀 cyber forensics & security student 🎀  
 ### ☁️ digital investigations • cybersecurity • coding ☁️
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=18&pause=1000&color=F3A6C8&center=true&vCenter=true&width=650&lines=welcome+to+my+github!;cyber+forensics+%26+security+student;learning+python+linux+%26+digital+forensics;building+cute+things+and+technical+projects+%E2%99%A1" alt="Typing SVG" />
+<img src="5ZQPBlTwwYt5-AdyhK7SY2YKRHkBZELA9knsY743DmX61KPHZSaZhmPXNBpTeDC8rFN-DYwaR4eUvPAO9H6EGNcMbmZ64H7vnRU9NC2YTQ-557oEc8j-hMj-NUw27hpEK-DlGSkrYGyrow50-LE5GA9Lo9jTyUxR0HktUipkD9NjUY0w8KfvB9fBUyyPAfrc.jpg" width="100%">
 
 ˚ʚ♡ɞ˚  
 **pink + tech + digital forensics + cute projects**  
